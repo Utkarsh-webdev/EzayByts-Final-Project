@@ -105,12 +105,7 @@ export const firebaseConfig = {
 
 ## 📸 Screenshots
 
-> Add screenshots in `/assets/` and link here:
-
-```
-![Home Page](./assets/home.png)
-![Admin Panel](./assets/admin-dashboard.png)
-```
+![Home Page](./src/assets/home.png)
 
 ---
 
